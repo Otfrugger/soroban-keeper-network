@@ -8,7 +8,7 @@ license = "Apache-2.0"
 repository = "https://github.com/soroban-tooling/soroban-keeper-network"
 
 [lib]
-crate-type = ["cdylib", "rlib"]
+crate-type = ["rlib"]
 
 [features]
 default = []
